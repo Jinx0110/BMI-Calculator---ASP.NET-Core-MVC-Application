@@ -2,6 +2,13 @@
 
 A simple Body Mass Index (BMI) calculator web application built using ASP.NET Core MVC and C#. Users can input their height and weight to calculate their BMI and receive a health category based on the result.
 
+## 🛠️ Tech Stack
+
+- ASP.NET Core MVC 
+- C#, HTML, CSS
+- Razor Pages
+- HTML/CSS
+
 ## 🚀 Features
 
 - Input height (cm) and weight (kg)
@@ -12,23 +19,6 @@ A simple Body Mass Index (BMI) calculator web application built using ASP.NET Co
   - Overweight
   - Obese
 
+  ![](https://github.com/Jinx0110/BMI-Calculator---ASP.NET-Core-MVC-Application/blob/a48d0d8f90692792226bc959e91477f0c7f1dc94/BMICalculator_Display.png)
 
-## 🛠️ Tech Stack
-
-- ASP.NET Core MVC (.NET 6 or 8)
-- C#
-- Razor Pages
-- HTML/CSS
-
-
-## 📷 Screenshots
-
-> (You can add screenshots of the app UI here)
-
-## 📦 Getting Started
-
-### Prerequisites
-
-- [.NET SDK](https://dotnet.microsoft.com/download) (version 6.0 or later)
-- IDE like [Visual Studio](https://visualstudio.microsoft.com/)
 
